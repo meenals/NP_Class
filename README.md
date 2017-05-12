@@ -1,2 +1,2 @@
 # Newspaper
-Classification Of Articles
+Classification Of News Articles inot categories based on their content
